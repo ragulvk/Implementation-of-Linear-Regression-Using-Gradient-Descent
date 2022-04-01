@@ -58,7 +58,7 @@ plt.ylabel("loss")
 
 ## Output:
 ![](O1.png)
-![](O2.png)
+![](02.png)
 
 
 ## Result:
