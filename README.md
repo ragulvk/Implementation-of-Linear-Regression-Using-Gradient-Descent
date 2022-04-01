@@ -55,7 +55,8 @@ plt.ylabel("loss")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![](O1.PNG)
+![](O2.PNG)
 
 
 ## Result:
